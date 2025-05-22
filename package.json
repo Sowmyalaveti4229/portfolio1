@@ -15,6 +15,9 @@
   "dev": "vite",
   
   "build": "vite build",
+
+  "main": "src/main.jsx",
+
     
   "preview": "vite preview",
   
