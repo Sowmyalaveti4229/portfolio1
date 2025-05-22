@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { Mail, Phone, Linkedin, Import } from "lucide-react";
 import profile from "./assets/laveti.jpg";
