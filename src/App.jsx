@@ -84,7 +84,7 @@ export default function App() {
   </motion.a>
 
   <motion.a
-    href="/Sowmya_resume.pdf"
+    href="/portfolio1/Sowmya_resume.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="inline-block px-6 py-2 border border-purple-500 text-purple-400 rounded hover:bg-purple-500 hover:text-white transition"
