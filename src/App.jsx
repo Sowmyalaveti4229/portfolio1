@@ -11,7 +11,7 @@ import ninjacaptureImg from "./assets/ninjacapture.png";
 
 const skills = [
   "Python", "Node.js", "Vue.js", "AWS", "Docker", "MongoDB",
-  "TypeScript", "MySQL", "HTML", "CSS"
+  "TypeScript", "MySQL", "HTML", "CSS", 'WordPress', "Git", "Agile Methodologies"
 ];
 
 export default function App() {
